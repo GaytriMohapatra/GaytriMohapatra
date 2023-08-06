@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaytri Mohapatra</h1>
-<h3 align="center">A sophomore at IGDTUW who is passionate about technology.</h3>
+<h3 align="center">A junior at IGDTUW who is passionate about technology.</h3>
 
 - 🌱 I’m currently learning **Data Structures, UI/UX, DBMS.**
 

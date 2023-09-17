@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaytri Mohapatra</h1>
-<h3 align="center">A junior at IGDTUW who is passionate about technology.</h3>
+<h3 align="center">A 3rd year undergrad at IGDTUW who is passionate about technology.</h3>
 
-- 🌱 I’m currently learning **Data Structures, UI/UX, DBMS.**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Structures, UI/UX, DBMS.**
 
 - 📫 How to reach me **gaytrimoh@gmail.com**
 

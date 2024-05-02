@@ -1,4 +1,4 @@
-![Gaytri's GitHub Banner](https://i.giphy.com/1GEATImIxEXVR79Dhk.webp)
+![Gaytri's GitHub Banner](https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif)
 <h1 align="center">Hi 👋, I'm Gaytri Mohapatra</h1>
 <h3 align="center">A sophomore at IGDTUW who is passionate about technology.</h3>
 

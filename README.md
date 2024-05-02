@@ -1,4 +1,4 @@
-![Gaytri's GitHub Banner]([https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47apjnvis7uo60rs2g954mwuqwr1831hac4fme6j34&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![Gaytri's GitHub Banner]<iframe src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Gaytri Mohapatra</h1>
 <h3 align="center">A sophomore at IGDTUW who is passionate about technology.</h3>
 

@@ -1,3 +1,4 @@
+![Gaytri's GitHub Banner]([https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47apjnvis7uo60rs2g954mwuqwr1831hac4fme6j34&ep=v1_gifs_search&rid=giphy.gif&ct=g))
 <h1 align="center">Hi 👋, I'm Gaytri Mohapatra</h1>
 <h3 align="center">A sophomore at IGDTUW who is passionate about technology.</h3>
 
@@ -20,6 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaytrimohapatra&show_icons=true&locale=en&layout=compact" alt="gaytrimohapatra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaytrimohapatra&show_icons=true&locale=en" alt="gaytrimohapatra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaytrimohapatra&" alt="gaytrimohapatra" /></p>

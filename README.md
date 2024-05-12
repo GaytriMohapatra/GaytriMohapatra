@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp" width="900" height="350">
 </p>
@@ -9,12 +8,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gaytrimohapatra&label=Profile%20views&color=0e75b6&style=flat" alt="gaytrimohapatra">
 </p>
-
-- 🌱 I’m currently learning **Data Structures, UI/UX, DBMS.**
-
-- 📫 How to reach me **gaytrimoh@gmail.com**
-
-- ⚡ Fun fact **I am a big foodie xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +24,12 @@
   <!-- add other icons -->
 </p>
 
+- 🌱 I’m currently learning **Data Structures, UI/UX, DBMS.**
+
+- 📫 How to reach me **gaytrimoh@gmail.com**
+
+- ⚡ Fun fact **I am a big foodie xD**
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GaytriMohapatra&theme=tokyonight&hide_border=true)<br/>
@@ -43,8 +42,3 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=GaytriMohapatra&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-

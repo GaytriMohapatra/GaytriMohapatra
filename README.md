@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp" width="900" height = "350">
+<img src="https://i.pinimg.com/564x/6a/e6/7b/6ae67b3116daebc2cbe6326cbf50f429.jpg" width="900" height = "350">
 
 <h1 align="center">Hi 👋, I'm Gaytri Mohapatra</h1>
 <h3 align="center">A pre-final year at IGDTUW who is passionate about technology.</h3>

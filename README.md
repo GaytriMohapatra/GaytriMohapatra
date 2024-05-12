@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaytrimohapatra&label=Profile%20views&color=0e75b6&style=flat" alt="gaytrimohapatra" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt="Coding" width="400" src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZxcGl5MGUxYTBxamdsbzBkamQ2aGYwbWx3NHNjOWZzYzZ1azNwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)">
 
 <p align="left">  </p>
 - 🌱 I’m currently learning **Data Structures, UI/UX, DBMS.**

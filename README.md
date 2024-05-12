@@ -1,4 +1,4 @@
-![image](https://github.com/GaytriMohapatra/GaytriMohapatra/assets/107802389/294f7d9c-ee66-4d0e-9c2c-266c434a3151)
+<img src="https://github.com/GaytriMohapatra/GaytriMohapatra/assets/107802389/294f7d9c-ee66-4d0e-9c2c-266c434a3151" width="100" height="400">
 
 
 <h1 align="center">Hi 👋, I'm Gaytri Mohapatra</h1>

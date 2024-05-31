@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZxcGl5MGUxYTBxamdsbzBkamQ2aGYwbWx3NHNjOWZzYzZ1azNwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 <p align="left">  </p>
-- 🌱 I’m currently learning **Data Structures, UI/UX, DBMS.**
+- 🌱 I’m currently learning Data Structures, MAchine Learning, Deep Learning, Blockchain, UI/UX, DBMS.
 
 - 📫 How to reach me **gaytrimoh@gmail.com**
 

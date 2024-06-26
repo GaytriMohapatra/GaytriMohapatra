@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZxcGl5MGUxYTBxamdsbzBkamQ2aGYwbWx3NHNjOWZzYzZ1azNwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 <p align="left">  </p>
-- 🌱 I’m currently learning Data Structures, MAchine Learning, Deep Learning, Blockchain, UI/UX, DBMS.
+- 🌱 I’m currently learning Data Structures, Machine Learning, Deep Learning, Blockchain, UI/UX, DBMS.
 
 - 📫 How to reach me **gaytrimoh@gmail.com**
 
@@ -27,10 +27,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GaytriMohapatra&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaytriMohapatra&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 

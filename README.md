@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gaytri Mohapatra</h1>
-<h3 align="center">A pre-final year at IGDTUW who is passionate about technology.</h3>
+<h3 align="center">A final year at IGDTUW who is passionate about technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaytrimohapatra&label=Profile%20views&color=0e75b6&style=flat" alt="gaytrimohapatra" /> </p>
 
